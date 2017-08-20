@@ -1,0 +1,1 @@
+# The error means that the program expected a closing curly bracket '}' but found ')' and threw error.

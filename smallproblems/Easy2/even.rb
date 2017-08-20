@@ -1,0 +1,1 @@
+(1..99).each{|n| puts n.to_s if n.even?}
